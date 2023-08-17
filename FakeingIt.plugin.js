@@ -2,8 +2,8 @@
  * @name fakingIt
  * @author Web.cats
  * @authorId 976438131375087706
- * @version 0.0.1
- * @invite fffffff
+ * @version 0.0.2
+ * @invite arFgF2RNsA
  * @description Fake your audio status, to make it look like you are muted or deafened when you're not.
  * @website https://www.webster.software/
  * @source https://github.com/xptea/FakeingIt
@@ -38,7 +38,7 @@
           github_username: "xptea",
         },
       ],
-      version: "1.4.4",
+      version: "0.0.2",
       description:
         "Fake your audio status, to make it look like you are muted or deafened when you're not.",
       github: "https://github.com/xptea/FakeingIt",
@@ -47,7 +47,7 @@
     },
     changelog: [
       {
-        title: "v0.0.1",
+        title: "v0.0.2",
         items: ["Test1"],
       }
     ],
