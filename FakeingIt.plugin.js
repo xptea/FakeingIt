@@ -6,8 +6,8 @@
  * @invite fffffff
  * @description Fake your audio status, to make it look like you are muted or deafened when you're not.
  * @website https://www.webster.software/
- * @source https://github.com/Tharki-God/BetterDiscordPlugins
- * @updateUrl https://tharki-god.github.io/BetterDiscordPlugins/FakeDeafen.plugin.js
+ * @source https://github.com/xptea/FakeingIt
+ * @updateUrl https://github.com/xptea/FakeingIt/blob/main/FakeingIt.plugin.js
  */
 /*@cc_on
  @if (@_jscript)
@@ -41,17 +41,17 @@
       version: "1.4.4",
       description:
         "Fake your audio status, to make it look like you are muted or deafened when you're not.",
-      github: "https://github.com/Tharki-God/BetterDiscordPlugins",
+      github: "https://github.com/xptea/FakeingIt",
       github_raw:
-        "https://tharki-god.github.io/BetterDiscordPlugins/FakeDeafen.plugin.js",
+        "https://github.com/xptea/FakeingIt/blob/main/FakeingIt.plugin.js",
     },
     changelog: [
       {
         title: "v0.0.1",
-        items: ["Easier To use Now"],
+        items: ["Test1"],
       }
     ],
-    main: "FakeDeafen.plugin.js",
+    main: "FakeingIt.plugin.js",
   };
   const RequiredLibs = [{
     window: "ZeresPluginLibrary",
