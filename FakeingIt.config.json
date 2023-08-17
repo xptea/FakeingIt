@@ -1,0 +1,22 @@
+{
+    "currentVersionInfo": {
+        "version": "0.0.1",
+        "hasShownChangelog": true
+    },
+    "enabled": false,
+    "settings": {
+        "toFake": {
+            "mute": true,
+            "deaf": true,
+            "video": false
+        },
+        "statusPicker": true,
+        "userPanel": true,
+        "playAudio": false,
+        "showToast": true,
+        "keybind": [
+            "ctrl",
+            "d"
+        ]
+    }
+}
